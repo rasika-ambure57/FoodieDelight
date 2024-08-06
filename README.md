@@ -1,6 +1,6 @@
 # FoodieDelight
 Food delivery app. It manages different Restaurants and their menus. 
-UI framework - React Native
+UI framework - React Native. Latest Version 0.74.5
 
 Functionality for Restaurant Admin :
 - Add new Restaurant to platform 
